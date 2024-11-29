@@ -4,6 +4,7 @@ export default {
   theme: {
     fontFamily: {
       SFProDisplay: ["SF Pro Display"],
+      SFProText: ["SF Pro Text"],
     },
     extend: {},
   },
