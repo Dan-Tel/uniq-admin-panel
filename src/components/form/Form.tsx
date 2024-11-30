@@ -117,7 +117,7 @@ function Form() {
             </h3>
 
             <div className="flex gap-1 outline-none bg-[#F0F3FA] p-[3px] border-[1px] border-[#AFB7CA] rounded-lg font-SFProText">
-              <button className="flex items-center gap-2 bg-[#0068FF] px-4 py-2 rounded-md text-white text-[15px] leading-[19.5px]">
+              <button className="flex items-center gap-2 px-4 py-2 bg-[#0068FF] rounded-md text-white text-[15px] leading-[19.5px]">
                 <img
                   className="w-[19px] h-[19px]"
                   src={visibleIcon}
