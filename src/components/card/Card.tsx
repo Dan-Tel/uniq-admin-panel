@@ -1,4 +1,4 @@
-import avatar from "../../assets/images/Avatar.svg";
+import avatar from "../../assets/images/Avatar-2.svg";
 
 function Card() {
   return (
